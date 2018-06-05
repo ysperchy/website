@@ -1,0 +1,12 @@
+title: Salim Perchy
+email: yamil-salim.perchy@inria.fr
+description: >
+  Website of R&D engineer Salim Perchy
+baseurl: ""
+url: "https://members.loria.fr/sperchy/"
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+markdown: kramdown
