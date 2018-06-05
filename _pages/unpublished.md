@@ -21,9 +21,9 @@ exclude: false
 - A method for automatic cleavage point identification in protein sequences:
   + [PDF][cleav-pred] (Spanish)
 
-[formal-game]:    /assets/pdf/formal_game.pdf
-[pitch-recog]:    /assets/pdf/pitch_recog.pdf
-[chopin-ton]:     /assets/pdf/chopin_tonality.pdf
-[soccer-hybrid]:  /assets/pdf/soccer_hybrid.pdf
-[game-prod]:      /assets/pdf/game_production.pdf
-[cleav-pred]:     /assets/pdf/clivaje_prediction.pdf
+[formal-game]:    ../assets/pdf/formal_game.pdf
+[pitch-recog]:    ../assets/pdf/pitch_recog.pdf
+[chopin-ton]:     ../assets/pdf/chopin_tonality.pdf
+[soccer-hybrid]:  ../assets/pdf/soccer_hybrid.pdf
+[game-prod]:      ../assets/pdf/game_production.pdf
+[cleav-pred]:     ../assets/pdf/clivaje_prediction.pdf

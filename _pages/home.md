@@ -28,6 +28,6 @@ Programming Languages and Concurrency, Computer Music, Videogame Development and
 [comete]:       http://www.lix.polytechnique.fr/comete
 [junkie]:       https://www.urbandictionary.com/define.php?term=junkie
 
-[cv]:           /assets/pdf/cv.pdf
-[me]:           /assets/img/me.png
-[me2]:          /assets/img/me2.png
+[cv]:           assets/pdf/cv.pdf
+[me]:           assets/img/me.png
+[me2]:          assets/img/me2.png

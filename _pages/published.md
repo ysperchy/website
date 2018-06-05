@@ -22,4 +22,4 @@ exclude: false
 [hal]:      https://hal.archives-ouvertes.fr/
 [dblp]:     http://dblp.uni-trier.de/pers/hd/p/Perchy:Salim
 [thesis]:   https://hal.inria.fr/view/index/docid/1413970
-[8art]:     /assets/pdf/xpassion71-8th_art.pdf
+[8art]:     ../assets/pdf/xpassion71-8th_art.pdf

@@ -63,12 +63,12 @@ _Néstor Cataño:_ email nestor dot catano at gmail dot com
 [eventb2jml]: https://arxiv.org/pdf/1309.2339.pdf
 [eventb]:     http://wiki.event-b.org/
 [jml]:        http://www.eecs.ucf.edu/~leavens/JML/
-[article]:    /assets/pdf/formal_game.pdf
 
-[screenshot1]:  /assets/img/racing-screenshot1.png
-[screenshot2]:  /assets/img/racing-screenshot2.png
-[controls]:     /assets/img/racing-controls.png
-[eclipse-code]: /assets/other/RoadFighter-Eclipse.zip
-[android-code]: /assets/other/RoadFighter-Android.zip
-[rodin-code]:   /assets/other/RoadFighter-EventB.zip
-[installer]:    /assets/other/RoadFighter-Android.apk
+[article]:      ../assets/pdf/formal_game.pdf
+[screenshot1]:  ../assets/img/racing-screenshot1.png
+[screenshot2]:  ../assets/img/racing-screenshot2.png
+[controls]:     ../assets/img/racing-controls.png
+[eclipse-code]: ../assets/other/RoadFighter-Eclipse.zip
+[android-code]: ../assets/other/RoadFighter-Android.zip
+[rodin-code]:   ../assets/other/RoadFighter-EventB.zip
+[installer]:    ../assets/other/RoadFighter-Android.apk

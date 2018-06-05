@@ -2,8 +2,9 @@ title: Salim Perchy
 email: yamil-salim.perchy@inria.fr
 description: >
   Website of R&D engineer Salim Perchy
-baseurl: ""
-url: "https://members.loria.fr/sperchy/"
+# set to website root address when deploying (e.g., "https://members.loria.fr/sperchy")
+baseurl: "https://members.loria.fr/sperchy"
+url: "https://members.loria.fr"
 
 # Build settings
 sass:

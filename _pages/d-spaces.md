@@ -20,9 +20,9 @@ categories: constraints
 [DOCUMENTATION][docs]
 
 
-[image1]:   /assets/img/d-spaces-image1.png
-[image2]:   /assets/img/d-spaces-image2.png
-[image3]:   /assets/img/d-spaces-image3.png
-[linux]:    /assets/other/D-Spaces_LINUX.zip
-[mac]:      /assets/other/D-Spaces_MAC.zip
-[docs]:     /assets/other/HeaderDoc/masterTOC.html
+[image1]:   ../assets/img/d-spaces-image1.png
+[image2]:   ../assets/img/d-spaces-image2.png
+[image3]:   ../assets/img/d-spaces-image3.png
+[linux]:    ../assets/other/D-Spaces_LINUX.zip
+[mac]:      ../assets/other/D-Spaces_MAC.zip
+[docs]:     ../assets/other/HeaderDoc/masterTOC.html

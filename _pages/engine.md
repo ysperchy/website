@@ -43,11 +43,11 @@ This is portal for a small game engine I wrote for teaching purposes. It's writt
 [method2]:    http://www.peroxide.dk/papers/collision/collision.pdf
 [method3]:    http://blackpawn.com/texts/pointinpoly/default.html
 
-[screenshot1]:  /assets/img/engine-screenshot1.png
-[screenshot2]:  /assets/img/engine-screenshot2.png
-[screenshot3]:  /assets/img/engine-screenshot3.png
-[screenshot4]:  /assets/img/engine-screenshot4.png
+[screenshot1]:  ../assets/img/engine-screenshot1.png
+[screenshot2]:  ../assets/img/engine-screenshot2.png
+[screenshot3]:  ../assets/img/engine-screenshot3.png
+[screenshot4]:  ../assets/img/engine-screenshot4.png
 
-[windows]:      /assets/other/engine-windows.zip
-[linux]:        /assets/other/engine-linux.zip
-[mac]:          /assets/other/engine-mac.zip
+[windows]:      ../assets/other/engine-windows.zip
+[linux]:        ../assets/other/engine-linux.zip
+[mac]:          ../assets/other/engine-mac.zip
