@@ -8,6 +8,7 @@ categories: home
 {:.quote}
 "...because passion unabated can be readily conflated as belligerence."<br>-**Bad Religion**
 
+{:.text-justify}
 Welcome to my home page, I'm an _Ingénieur/Chercheur_ at [INRIA Nancy-Grand Est][inria-nancy] currently working on the project [IceSL][icesl] with [Sylvain Lefebvre][sylvain] from the [MFX][mfx] team. Funding for my work comes from the [European Research Council (ERC)][erc], also I'm a member of [AVISPA][avispa] and [Comète][comete] groups.
 
 My CV is here [PDF][cv]

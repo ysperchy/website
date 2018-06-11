@@ -9,7 +9,7 @@ exclude: false
 **Published:**
 
 [HAL][hal] listing:
-<iframe width="800" height="300" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=perchy&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr&Formate=Oui&css=../css/VisuCondense.css"></iframe>
+<iframe width="100%" height="300" src="https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=perchy&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Rech&lang=fr&Formate=Oui&css=../css/VisuCondense.css"></iframe>
 - DBLP entry:
   + [LINK][dblp]
 
