@@ -11,14 +11,14 @@ categories: home
 {:.text-justify}
 Welcome to my home page, I'm an _Ingénieur/Chercheur_ at [INRIA Nancy-Grand Est][inria-nancy] currently working on the project [IceSL][icesl] with [Sylvain Lefebvre][sylvain] from the [MFX][mfx] team. Funding for my work comes from the [European Research Council (ERC)][erc], also I'm a member of [AVISPA][avispa] and [Comète][comete] groups.
 
-My CV is here [PDF][cv]
+- CV is here: [PDF][cv]
+- LinkedIn profile: [LINK][linkedin] (not public)
 
 ___
 <br>
 **Interests:**
 
-Programming Languages and Concurrency, Computer Music, Videogame Development and Production, C++ [junkie][junkie]
-
+Software Architecture and Development, Programming Languages, C++ [junkie][junkie], Computer Music
 
 [inria-nancy]:  https://www.inria.fr/en/centre/nancy
 [icesl]:        https://members.loria.fr/Sylvain.Lefebvre/icesl
@@ -32,3 +32,4 @@ Programming Languages and Concurrency, Computer Music, Videogame Development and
 [cv]:           assets/pdf/cv.pdf
 [me]:           assets/img/me.png
 [me2]:          assets/img/me2.png
+[linkedin]:     https://www.linkedin.com/in/salim-perchy/
